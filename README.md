@@ -1,16 +1,47 @@
-## Hi there 👋
+# Bonjour, je suis Sajjad 👋
 
-<!--
-**sajjadkr1/sajjadkr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Développeur Full Stack en formation
 
-Here are some ideas to get you started:
+Je suis actuellement en formation de développement web.
+Je construis des applications avec Angular, TypeScript et Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+## 🚀 Technologies
+
+Frontend:
+- Angular
+- TypeScript
+- HTML5
+- CSS3
+- Bootstrap
+
+Backend:
+- Node.js
+- Express
+- API REST
+
+Database:
+- MongoDB
+- JSON Server
+
+## 📌 Projets
+
+### ⚖️ AVOCAT
+Application web permettant aux étrangers en France de trouver un avocat selon leur problème administratif.
+
+Technologies:
+Angular • TypeScript • JSON Server
+
+
+### 👕 Lace Vibe
+Projet e-commerce réalisé avec HTML/CSS.
+
+## 🎯 Objectif
+
+Devenir développeur Full Stack et créer des applications web professionnelles.
+
+## 📫 Contact
+
+GitHub:
+https://github.com/sajjadkr1
 - ⚡ Fun fact: ...
 -->
