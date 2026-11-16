@@ -1,47 +1,70 @@
-# Bonjour, je suis Sajjad 👋
+# Bonjour, moi c'est Sajjad 👋
 
-## 👨‍💻 Développeur Full Stack en formation
+### 👨‍💻 Développeur Web Full Stack en formation
 
-Je suis actuellement en formation de développement web.
-Je construis des applications avec Angular, TypeScript et Node.js.
+Passionné par le développement web, j'apprends à concevoir et à développer des applications web modernes, du frontend au backend.
 
-## 🚀 Technologies
+J'aime apprendre de nouvelles technologies, résoudre des problèmes et transformer des idées en projets concrets.
 
-Frontend:
-- Angular
-- TypeScript
+---
+
+## 🚀 Technologies & Outils
+
+**Frontend**
 - HTML5
 - CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Angular
 - Bootstrap
 
-Backend:
+**Backend**
 - Node.js
-- Express
+- Express.js
 - API REST
 
-Database:
+**Bases de données**
+- SQL
+- MySQL
 - MongoDB
 - JSON Server
 
-## 📌 Projets
+**Outils**
+- Git & GitHub
+- VS Code
+- Linux / WSL
+- Docker
 
-### ⚖️ AVOCAT
-Application web permettant aux étrangers en France de trouver un avocat selon leur problème administratif.
+---
 
-Technologies:
-Angular • TypeScript • JSON Server
+## 📂 Mes projets
+
+### ⚖️ LegalBridge
+Application web destinée à aider les personnes étrangères en France à trouver un avocat adapté à leur situation.
+
+Fonctionnalités :
+- Recherche d'avocats par spécialité et ville
+- Consultation des profils des avocats
+- Gestion des inscriptions et connexions
+- Prise de rendez-vous
+- Espace d'administration
+
+Technologies : Angular, TypeScript, Node.js, Express.js, SQL, HTML, CSS et JavaScript.
 
 
-### 👕 Lace Vibe
-Projet e-commerce réalisé avec HTML/CSS.
 
-## 🎯 Objectif
+## 🎯 Mon objectif
 
-Devenir développeur Full Stack et créer des applications web professionnelles.
+Devenir développeur Web Full Stack et participer à la création d'applications web utiles, accessibles et professionnelles.
 
-## 📫 Contact
+Je continue à apprendre, pratiquer et améliorer mes compétences à travers des projets personnels et des exercices techniques.
 
-GitHub:
-https://github.com/sajjadkr1
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Me contacter
+
+- GitHub : [@sajjadkr1](https://github.com/sajjadkr1)
+
+---
+
+⚡ *Always learning, always building.*
